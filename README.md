@@ -1,4 +1,4 @@
-###How to use Femap API Scripts
+### How to use Femap API Scripts
 
 Femap scripts are an extremely powerful tool with many potential uses. Scripts can be used to automate tedious tasks, improve the user interface of a feature, perform complex analysis or modeling tasks, combine often-used sequences into a single operation, and many other productivity-driven purposes.
 
@@ -7,7 +7,7 @@ Using a script is usually quite easy\*. The files are plain-text scripts written
 
 A note on terminology: "Code," "Script," and "Macro" are used interchangeably in this document. All refer to a set of instructions executed by the Femap API interpreter.
 
-##Method 1:  Run From the API Pane
+## Method 1:  Run From the API Pane
 The API Pane in Femap can be used to view, edit, or run macros. To access the API window, click on the API Programming tab. If the tab isn't visible, click the indicated icon above the "Model Info" pane.
 
 ![Location of the API Window](images/API_tab.png)
