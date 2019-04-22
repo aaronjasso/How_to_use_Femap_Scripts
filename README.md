@@ -5,7 +5,7 @@ Femap scripts are an extremely powerful tool with many potential uses. Scripts c
 Using a script is usually quite easy\*. The files are plain-text scripts written in a version of Visual Basic, so the easiest way is to simply copy the code into Femap's API window and run it. For sripts that will be used often, you can also add them to your Use Tools menu or even add a custom toolbar button. All three of these methods are covered in this repository.
 >\*Advanced scripts may rely on separate subroutine files, class modules, or external libraries. These dependencies should be clearly explained in the program's documentation.
 
-A note on terminology: "Code," "Script," and "Macro" are used interchangeably in this document. All refer to a set of instructions executed by the Femap API interpreter.
+A note on terminology: *code*, *script*, and *macro* are used interchangeably in this document. All refer to a set of instructions executed by the Femap API interpreter.
 
 ### Method 1:  Run From the API Pane
 The API Pane in Femap can be used to view, edit, or run macros. To access the API window, click on the API Programming tab. If the tab isn't visible, click the indicated icon above the "Model Info" pane.
