@@ -23,7 +23,7 @@ The API window opens with some default code that's required for a new macro, whi
 Once you've run the code you can close the API window and continue with your analysis. Note that macros are not saved with your model file, so if you close Femap and open the same model later, the macro code will not be loaded in the window. Loading a macro will also not increase your file size.
 
 ### Method 2:  Add to the User Tools Menu
-The _Custom and User Tools_ toolbar in Femap contains two buttons for easily accessing your scripts. The `Custom Tools` button contains a number of API scripts that are included with Femap. It's possible to add scripts to this button, but I prefer to add my scripts to the `User Tools` button (they are scripts added by me -the user- afterall).
+The _Custom and User Tools_ toolbar in Femap contains two buttons for easily accessing your scripts. The `Custom Tools` drop-down menu contains a number of API scripts that are included with Femap. It's possible to add scripts to this button, but I prefer to add my scripts to the `User Tools` drop-down list instead (they are scripts added by me -the user- afterall).
 >Note: These buttons have options to define the tools directory. If you define the directory this way, it will work for the current session but it will not be preserved when you exit Femap.
 
 ![Custom and User Tools](images/Tools_buttons.png)
@@ -32,5 +32,10 @@ To add a script, save it somewhere on your local machine. It's best to make a de
 
 Next, tell Femap where this directory is located by clicking _File_ > _Perferences_ (Or Ctrl + Shift + P). On the _Library/Startup_ tab, enter the directory in the _User Tools Path_ field.
 
-![Preferences, Library/Startup Tab](images/Preferenecs.png)
+![Preferences, Library/Startup Tab](images/Preferences.png)
+
+Femap will check this directory every time you click _User Tools_ and display the programs if finds.
+
+#### User Tools Notes
+1.  Femap will recognize the following file extensions and display them in the drop-down menu:  `*.exe`, `*.com`, `*.pif`, `*.bat`, `*.cmd`, `*.pro`, `*.prg`, and `*.bas.`
 
