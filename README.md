@@ -57,6 +57,8 @@ The next step is on the Command tab, but as of Femap 12.0.1a the list of command
 7.  Find your new command in the list, then click and drag it up to the toolbar area. You can place it on any visible toolbar or on the Menu Bar (The row with File, Tools, Geometry, etc.).
 8.  Click Close to exit the Customize dialogue.
 
+![Toolbar Buttons](images/Toolbar_buttons.png)
+
 #### Toolbar Notes
 1.  You can add almost any built-in feature of Femap to the toolbar this way. Just find the command you want in the Commands list on the Commands tab, and click-and-drag it up to the toolbar area.
 2.  There are many options to make your custom toolbar buttons more useful such as organizing them in custom drop-down menus and adding custom icons. See Femap Help: `Home > User Guide > 4. User Interface > 4.2 Accessing FEMAP Commands > 4.2.2 FEMAP Toolbars > 4.2.2.2 Customizing toolbars` for more info.
