@@ -54,10 +54,12 @@ Perhaps the most convenient way to access a script is to add a button to run the
 The next step is on the Command tab, but as of Femap 12.0.1a the list of commands on this tab doesn't update unless the Customize dialogue box is closed and re-opened. So close it and then repeat step 2 before continuing.
 
 6.  On the Commands tab, click _User Commands_ in the Categories window to populate the Commands window with your custom commands.
-7.  Find your new command in the list, then click and drag it up to the toolbar area. Drop it wherever you want it to be.
+7.  Find your new command in the list, then click and drag it up to the toolbar area. You can place it on any visible toolbar or on the Menu Bar (The row with File, Tools, Geometry, etc.).
 8.  Click Close to exit the Customize dialogue.
 
->Note:  There are many options to make your custom toolbar buttons more useful such as organizing them in custom drop-down menus and adding custom icons. See Femap Help: `Home > User Guide > 4. User Interface > 4.2 Accessing FEMAP Commands > 4.2.2 FEMAP Toolbars > 4.2.2.2 Customizing toolbars` for more info.
+#### Toolbar Notes
+1.  You can add almost any built-in feature of Femap to the toolbar this way. Just find the command you want in the Commands list on the Commands tab, and click-and-drag it up to the toolbar area.
+2.  There are many options to make your custom toolbar buttons more useful such as organizing them in custom drop-down menus and adding custom icons. See Femap Help: `Home > User Guide > 4. User Interface > 4.2 Accessing FEMAP Commands > 4.2.2 FEMAP Toolbars > 4.2.2.2 Customizing toolbars` for more info.
 
 ### Good Luck!
 If you have any questions, create an Issue and I will try to address them. Comments and improvements to this document are welcome, just make a pull request.
