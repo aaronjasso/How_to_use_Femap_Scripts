@@ -49,7 +49,7 @@ Perhaps the most convenient way to access a script is to add a button to run the
 >Note:  If you already have some user commands, just overwrite the existing text.
 5.  Click Add. You should see your program added to the list on this tab.
 
-![Customize Dialogue Box](images/Customize Menu.png)
+![Customize Dialogue Box](images/Customize_menu.png)
 
 The next step is on the Command tab, but as of Femap 12.0.1a the list of commands on this tab doesn't update unless the Customize dialogue box is closed and re-opened. So close it and then repeat step 2 before continuing.
 
