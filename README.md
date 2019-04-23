@@ -24,7 +24,7 @@ Once you've run the code you can close the API window and continue with your ana
 
 ### Method 2:  Add to the User Tools Menu
 The _Custom and User Tools_ toolbar in Femap contains two buttons for easily accessing your scripts. The `Custom Tools` drop-down menu contains a number of API scripts that are included with Femap. It's possible to add scripts to this button, but I prefer to add my scripts to the `User Tools` drop-down list instead (they are scripts added by me -the user- afterall).
->Note: These buttons have options to define the tools directory. If you define the directory this way, it will work for the current session but it will not be preserved when you exit Femap.
+>Note: These buttons have options (_Tools Directory..._) to define the tools directory. If you define the directory this way, it will work for the current session but it will not be preserved when you exit Femap.
 
 ![Custom and User Tools](images/Tools_buttons.png)
 
@@ -38,4 +38,6 @@ Femap will check this directory every time you click _User Tools_ and display th
 
 #### User Tools Notes
 1.  Femap will recognize the following file extensions and display them in the drop-down menu:  `*.exe`, `*.com`, `*.pif`, `*.bat`, `*.cmd`, `*.pro`, `*.prg`, and `*.bas.`
+2.  The _Add Tools..._ option in the drop-down menu allows you to easily add a saved script to the User Tools directory you defined. When you click this option and navigate to a file, Femap will copy that file into your User Tools directory.
+3.  Much more information about the tools directory can be found in the Femap Help: Home > Commands > 7. Modeling Tools > 7.3 Tools, Toolbars... > 7.3.1 Standard Toolbars > 7.3.1.22 Tools, Toolbars, Custom and User Tools
 
