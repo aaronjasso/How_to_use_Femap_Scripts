@@ -1,3 +1,5 @@
+###### Note: This document is in works and will be updated regularly until all three methods are explained
+
 ## How to use Femap API Scripts
 
 Femap scripts are an extremely powerful tool with many potential uses. Scripts can be used to automate tedious tasks, improve the user interface of a feature, perform complex analysis or modeling tasks, combine often-used sequences into a single operation, and many other productivity-driven purposes.
@@ -19,3 +21,11 @@ The API window opens with some default code that's required for a new macro, whi
 ![The API Window](images/API_window.png)
 
 Once you've run the code you can close the API window and continue with your analysis. Note that macros are not saved with your model file, so if you close Femap and open the same model later, the macro code will not be loaded in the window. Loading a macro will also not increase your file size.
+
+### Method 2:  Add to the User Tools Menu
+The _Custom and User Tools_ toolbar in Femap contains two buttons for easily accessing your scripts. The `Custom Tools` button contains a number of API scripts that are included with Femap. It's possible to add scripts to this button, but I prefer to add my scripts to the `User Tools` button (they are scripts added by me --the user-- afterall).
+
+![Custom and User Tools](images/Tools_buttons.png)
+
+To add a script, save it somewhere on your local machine. It's best to make a dedicated directory for your scripts, something like `Documents/Femap Scripts`.
+
