@@ -28,7 +28,7 @@ Scripts that will be used more than once can be accessed conveniently from the t
 
 To add a script, save it somewhere on your local machine. It's best to make a dedicated directory for your scripts, something like `Documents/Femap Scripts/User Tools`.
 
-Next, tell Femap where this directory is located by clicking _File_ > _Preferences_ (Or Ctrl + Shift + P). On the _Library/Startup_ tab, enter the directory in the _User Tools Path_ field.
+Next, tell Femap where this directory is located by clicking _File_ > _Preferences_ (Or `Ctrl + Shift + P`). On the _Library/Startup_ tab, enter the directory in the _User Tools Path_ field.
 
 ![Preferences, Library/Startup Tab](images/Preferences.png)
 
