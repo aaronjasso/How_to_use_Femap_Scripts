@@ -21,7 +21,7 @@ The API window opens with some default code that's required for a new macro, whi
 Once you've run the code you can close the API window and continue with your analysis. Note that macros are not saved with your model file, so if you close that instance of Femap and open the same model later, the macro code will not be loaded in the window. Loading a macro will also not increase your model file size.
 
 ### Method 2:  Add to the User Tools Menu
-For scripts used more than once, there's a  The _Custom and User Tools_ toolbar in Femap contains two buttons for easily accessing your scripts. The `Custom Tools` drop-down menu contains a number of API scripts that are included with Femap. It's possible to add scripts to this button, but I prefer to add my scripts to the `User Tools` drop-down list instead (they are scripts added by me -the user- afterall).
+Scripts that will be used more than once can be accessed conveniently from the toolbar. The _Custom and User Tools_ toolbar in Femap contains two buttons for easily accessing your scripts. The `Custom Tools` drop-down menu contains a number of API scripts that are included with Femap. It's possible to add scripts to this button, but I prefer to add my scripts to the `User Tools` drop-down list instead (they are scripts added by me -the user- afterall).
 >Note: These buttons have options (_Tools Directory..._) to define the tools directory. If you define the directory this way, it will work for the current session but it will not be preserved when you exit Femap.
 
 ![Custom and User Tools](images/Tools_buttons.png)
