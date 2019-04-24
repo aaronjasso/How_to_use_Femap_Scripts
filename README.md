@@ -42,7 +42,7 @@ Femap will check this directory every time you click _User Tools_ and display th
 
 ### Method 3:  Create a Toolbar Button
 Perhaps the most convenient way to access a script is to add a button to run the script to the toolbar. This makes your script accessible with a single click. To add a toolbar button, follow these steps.
-1.  Save the program localy on your computer
+1.  Save the program locally on your computer
 2.  In Femap, right-click anywhere in the toolbar area and click _Customize..._
 3.  On the User Commands tab, enter a short name for the program in the Command Name field.
 4.  Enter the path (or click the three-dots button and navigate) to your program.
