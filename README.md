@@ -36,7 +36,7 @@ Next, tell Femap where this directory is located by clicking _File_ > _Preferenc
 
 ![Preferences, Library/Startup Tab](images/Preferences.png)
 
-Femap will check this directory every time you click _User Tools_ and display the programs if finds.
+Femap will check this directory every time you click _User Tools_ and display the programs it finds.
 
 #### User Tools Notes
 1.  Femap will recognize the following file extensions and display them in the drop-down menu:  `*.exe`, `*.com`, `*.pif`, `*.bat`, `*.cmd`, `*.pro`, `*.prg`, and `*.bas.`
