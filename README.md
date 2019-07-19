@@ -1,4 +1,5 @@
 ## How to use Femap API Scripts
+[//]: # (Copyright 2019 Aaron Jasso)
 
 Femap scripts are an extremely powerful tool with many potential uses. Scripts can be used to automate tedious tasks, improve the user interface of a feature, perform complex analysis or modeling tasks, combine often-used sequences into a single operation, and many other productivity-driven purposes.
 
