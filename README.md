@@ -58,7 +58,7 @@ Perhaps the most convenient way to access a script is to add a button to run the
 
 ![Customize Dialogue Box](images/Customize_menu.png)
 
-The next step is on the Commands tab, but as of Femap 12.0.1a the list of commands on this tab doesn't update unless the Customize dialogue box is closed and re-opened. So close it and then repeat step 2 before continuing.
+The next step is on the Commands tab, but as of Simcenter Femap 2022.1 the list of commands on this tab doesn't update unless the Customize dialogue box is closed and re-opened. So close it and then repeat step 2 before continuing.
 
 6.  On the Commands tab, click _User Commands_ in the Categories window to populate the Commands window with your custom commands.
 7.  Find your new command in the list, then click and drag it up to the toolbar area. You can place it on any visible toolbar or on the Menu Bar (The row with File, Tools, Geometry, etc.).
